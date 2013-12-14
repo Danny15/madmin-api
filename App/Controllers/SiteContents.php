@@ -1,6 +1,6 @@
 <?php namespace App\Controllers;
 use App\Models\SiteContent;
-use App\Services\SiteContentTransformer;
+use App\Transformers\SiteContentTransformer;
 
 class SiteContents extends ApiController
 {

@@ -1,6 +1,6 @@
 <?php namespace App\Controllers;
 use App\Models\User;
-use App\Services\UserTransformer;
+use App\Transformers\UserTransformer;
 
 class Users extends ApiController
 {
