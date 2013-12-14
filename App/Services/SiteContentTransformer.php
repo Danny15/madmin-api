@@ -14,6 +14,9 @@ class SiteContentTransformer extends TransformerAbstract
             'longtitle' => $content->longtitle,
             'description' => $content->description,
             'alias' => $content->alias,
+            'published' => (int) $content->published,
+            'introtext' => $content->introtext,
+            'content' => $content->content,
         ];
     }
 }
