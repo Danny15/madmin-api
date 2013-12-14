@@ -1,14 +1,4 @@
 {
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/jeremeamia/xstatic"
-    },
-    {
-      "type": "vcs",
-      "url": "https://github.com/jeremeamia/acclimate"
-    }
-  ],
   "name": "silentworks/madmin",
   "authors": [
     {
@@ -20,9 +10,7 @@
     "slim/slim": "dev-develop as 3.0.0",
     "slim/middleware": "1.0.0",
     "illuminate/database": "v4.1.3",
-    "league/fractal": "0.4.*",
-    "jeremeamia/acclimate": "dev-master",
-    "jeremeamia/xstatic": "dev-master"
+    "league/fractal": "0.5.1"
   },
   "autoload": {
       "psr-0": {

@@ -3,7 +3,7 @@
         "This file locks the dependencies of your project to a known state",
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file"
     ],
-    "hash": "5f8291a69bc1349157147dc38d5c55c6",
+    "hash": "c58eccc84e5e6f854609ab0dacfa8ebb",
     "packages": [
         {
             "name": "illuminate/container",
@@ -215,16 +215,16 @@
         },
         {
             "name": "league/fractal",
-            "version": "0.4.6",
+            "version": "0.5.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/php-loep/fractal.git",
-                "reference": "4cdd800ccba4f400a39496f7edb8c38dc0bc868d"
+                "reference": "8e5f58853327a3fcf4c42da8219f536ac86e302d"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/php-loep/fractal/zipball/4cdd800ccba4f400a39496f7edb8c38dc0bc868d",
-                "reference": "4cdd800ccba4f400a39496f7edb8c38dc0bc868d",
+                "url": "https://api.github.com/repos/php-loep/fractal/zipball/8e5f58853327a3fcf4c42da8219f536ac86e302d",
+                "reference": "8e5f58853327a3fcf4c42da8219f536ac86e302d",
                 "shasum": ""
             },
             "require-dev": {
@@ -262,7 +262,7 @@
                 "json",
                 "league"
             ],
-            "time": "2013-12-13 18:45:11"
+            "time": "2013-12-13 22:09:24"
         },
         {
             "name": "nesbot/carbon",
