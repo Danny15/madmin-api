@@ -1,0 +1,20 @@
+{
+  "name": "silentworks/madmin",
+  "authors": [
+    {
+      "name": "silentworks",
+      "email": "a.smith@silentworks.co.uk"
+    }
+  ],
+  "require": {
+    "slim/slim": "dev-develop as 3.0.0",
+    "slim/middleware": "1.0.0",
+    "illuminate/database": "v4.1.3",
+    "league/fractal": "0.4.*"
+  },
+  "autoload": {
+      "psr-0": {
+          "App": "."
+      }
+  }
+}
